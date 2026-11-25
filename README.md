@@ -82,7 +82,7 @@ Open JupyterLab or Jupyter Notebook and run:
 
 | Name           | Roll No     |
 |----------------|-------------|
-| Ayush Badgujar | 230259     |
+| Akshat Jain | 230097     |
 | Ashish Kumar Jha   | 230227   |
 | Naman Mohan Singh  | 230678     |
 | Prasun Shrivastav  | 230778      |
